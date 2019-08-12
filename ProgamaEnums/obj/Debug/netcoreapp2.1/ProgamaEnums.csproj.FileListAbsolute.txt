@@ -1,0 +1,11 @@
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.csprojAssemblyReference.cache
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.csproj.CoreCompileInputs.cache
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.AssemblyInfoInputs.cache
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.AssemblyInfo.cs
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\bin\Debug\netcoreapp2.1\ProgamaEnums.deps.json
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\bin\Debug\netcoreapp2.1\ProgamaEnums.runtimeconfig.json
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\bin\Debug\netcoreapp2.1\ProgamaEnums.runtimeconfig.dev.json
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\bin\Debug\netcoreapp2.1\ProgamaEnums.dll
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\bin\Debug\netcoreapp2.1\ProgamaEnums.pdb
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.dll
+C:\Users\Joao Guilherme\source\repos\ProgamaEnums\ProgamaEnums\obj\Debug\netcoreapp2.1\ProgamaEnums.pdb
